@@ -45,7 +45,7 @@ c. use fentl
 
 13. Write a program to wait for a STDIN for 10 seconds using select. Write a proper print statement to verify whether the data is available within 10 seconds or not (check in Sman 2 select).
 
-14 Write a program to find the type of a file.<br>
+14. Write a program to find the type of a file.<br>
 a.Input should be taken from command line<br>
 b.program should be able to identify any type of a file
 
