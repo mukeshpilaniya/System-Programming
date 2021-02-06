@@ -32,8 +32,8 @@ i. time of last modificatio
 j. time of last change
 
 10. Write a program to open a file with read write mode, write 10 bytes, move the file pointer by 10
-bytes (use Iseek) and write again 10 bytes.
-a. check the return value of Iseek
+bytes (use Iseek) and write again 10 bytes.<br>
+a. check the return value of Iseek<br>
 b. open the file with od and check the empty spaces in between the data.
 
 11. Write a program to open a file, duplicate the file descriptor and append the file with both the
@@ -43,12 +43,11 @@ b. use dup2<br>
 c. use fentl
 12. Write a program to find out the opening mode of a file. Use fcntl.
 
-13. Write a program to wait for a STDIN for 10 seconds using select. Write a proper print statement to
-verify whether the data is available within 10 seconds or not (check in Sman 2 select).
+13. Write a program to wait for a STDIN for 10 seconds using select. Write a proper print statement to verify whether the data is available within 10 seconds or not (check in Sman 2 select).
 
 14 Write a program to find the type of a file.<br>
-a. Input should be taken from command line.<br>
-b. program should be able to identify any type of a file.
+a. Input should be taken from command line<br>
+b. program should be able to identify any type of a file
 
 15. Write a program to display the environmental variable of the user (use environ).
 
