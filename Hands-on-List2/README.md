@@ -117,5 +117,5 @@ d. remove the created semaphore\n
 33. Write a program to communicate between two machines using socket.
 
 34. Write a program to create a concurrent server.\n
-a. use fork \n
+a. use fork\n
 b. use pthread_create
