@@ -33,9 +33,7 @@ j. time of last change
 
 10. Write a program to open a file with read write mode, write 10 bytes, move the file pointer by 10
 bytes (use Iseek) and write again 10 bytes.
-
 a. check the return value of Iseek
-
 b. open the file with od and check the empty spaces in between the data.
 
 11. Write a program to open a file, duplicate the file descriptor and append the file with both the
